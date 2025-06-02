@@ -1,0 +1,13 @@
+wordcloud
+numpy
+pandas
+matplotlib
+torch
+ray
+nltk
+seaborn
+yfinance
+scikit-learn
+tqdm
+plotly
+temp
