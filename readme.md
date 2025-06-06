@@ -11,6 +11,7 @@ For hyperparameter optimization the network is tuned using Ray Tune search space
 
 <h1>Features</h1>
 1. NLP Data processing and sentiment extraction with daily interval.
+
 2. Model training and deployment with PyTorch Library.
 
 <h1>Installation instructions</h1>
