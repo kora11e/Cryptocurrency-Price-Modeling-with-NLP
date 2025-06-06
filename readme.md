@@ -14,3 +14,19 @@ For hyperparameter optimization the network is tuned using Ray Tune search space
 2. Model training and deployment with PyTorch Library.
 
 <h1>Installation instructions</h1>
+
+1. Download the project as zip in the top right corner or clone it directly via git bash or github on your machine.
+2. Open it with your preferred code editor.
+3. Open the console, locate the project directory and run the following command to create Conda environment.
+
+```python
+conda create --name <your-name>
+```
+
+4. Run following command to install necessary packages from requirements.txt.
+
+```python
+conda install --file requirements.txt
+```
+   
+6. Run individual blocks for the final results.
